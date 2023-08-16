@@ -28,9 +28,12 @@ Features
 
 # screenshot
 Home page
-![Uploading Screenshot 2023-08-17 012942.png…]()
+![Screenshot 2023-08-17 012843](https://github.com/cheenupal/Meals-Food-App/assets/113707137/772f52da-e930-43c8-a1b8-79725b7534ef)
+
 Meals Details
-![Uploading Screenshot 2023-08-17 012843.png…]()
+![Screenshot 2023-08-17 012942](https://github.com/cheenupal/Meals-Food-App/assets/113707137/23b1c29d-6280-4139-8f03-439f1a532a58)
+
+
 Favourites section
 ![Screenshot 2023-08-17 013036](https://github.com/cheenupal/Meals-Food-App/assets/113707137/1a2e0ae4-61d2-4449-b7e4-8062407961a0)
 
