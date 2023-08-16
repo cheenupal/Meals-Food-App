@@ -4,6 +4,7 @@ Simple app that allows user to search for meals and get recipes.
 Demo : https://cheenupal.github.io/Meals-Food-App/
 
 About this Project
+
 1.In this project i have created Food Recipes APP using HTML, CSS, JavaScript, API and Local Storage.
 2.The main logic use in this project is to fetch the meal recipes data on every keypresss and use the data to show recipes on the screen.
 3.I have also use LOCAL STORAGE to store the favourites recipes.
